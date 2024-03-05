@@ -8,7 +8,7 @@ import FooterSection from "@/components/FooterSection";
 
 export default function Home() {
   return (
-    <div className="flex flex-col gap-5 w-screen h-screen p-10">
+    <div className="flex flex-col p-10">
       <HeaderSection />
       <main className="flex justify-between">
         <ArticleSection />

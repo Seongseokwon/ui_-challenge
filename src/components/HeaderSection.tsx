@@ -8,7 +8,7 @@ type HeaderSectionProps = {
 
 const HeaderSection = ({  }: HeaderSectionProps) => {
   return (
-    <header className="flex justify-between items-center px-5 pb-5">
+    <header className="flex justify-between items-center p-5 rounded-t-2xl bg-white">
      <section className="flex flex-1 items-center gap-5 basis-1/2">
       <div>
       로고 
