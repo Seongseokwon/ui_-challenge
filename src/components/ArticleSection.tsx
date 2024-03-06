@@ -1,6 +1,4 @@
-import { AiOutlineMinus, AiOutlinePlus } from "react-icons/ai";
 import CartItem from "./CartItem";
-
 
 type ArticleSectionProps = {
   
